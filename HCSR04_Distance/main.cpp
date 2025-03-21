@@ -12,8 +12,8 @@
     HC-SR04 Module  <>  Arduino UNO
               Trig  <-  9
               Echo  ->  10
-              Vcc   <-  5V
-              Gnd   <-  GND
+              Vcc   ==  5V
+              Gnd   ==  GND
 */
 
 // Replacing numbers with names is more readable and for easy edit
